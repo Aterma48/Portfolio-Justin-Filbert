@@ -141,6 +141,8 @@ hr {
 	background-color: transparent;
 	border-color: #00072D;
 	padding: 14px 20px;
+	padding-top: 8px;
+	padding-bottom: 12px;
 	margin: 0;
 	font-size: 16px;
 	border-radius: 0;
@@ -228,6 +230,7 @@ ol.type li a {
 	border: 1px solid #777;
 	color: #F4F4F5;
 	padding: 8px 20px;
+	padding-bottom: 12px;
 }
 ol.type li a.active {
 	background: #001C55;
